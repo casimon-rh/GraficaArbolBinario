@@ -1,0 +1,11 @@
+/*.suo
+/packages
+/BinarySearchTree/bin
+/BinarySearchTree/obj
+/DynamicDataDisplay v0.3 Binaries & Samples/Samples
+/Grafo/bin
+/Grafo/obj
+/Grafo/*.user
+/Mahapps/Metro/obj
+/Mahapps/Metro/bin
+/Mahapps/Metro/*.pfx
